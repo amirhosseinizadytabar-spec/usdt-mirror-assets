@@ -1,0 +1,12 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "address": "0x2A0Af82925bA830EC9cffcFD322D54D090024B1e",
+  "decimals": 18,
+  "logoURI": "https://cryptologos.cc/logos/tether-usdt-logo.svg?v=040",
+  "tags": ["stablecoin", "tether"],
+  "deregistration": {
+    "time": 0,
+    "reason": ""
+  }
+}
